@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarCode2DS</string>
+    <string name="jm">decoding</string>
+    <string name="btnscan">Scan</string>
+</resources>

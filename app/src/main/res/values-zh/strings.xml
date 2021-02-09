@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BarCode2DS</string>
+    <string name="jm">解码方式</string>
+    <string name="btnscan">扫描</string>
+
+
+
+
+</resources>
+
